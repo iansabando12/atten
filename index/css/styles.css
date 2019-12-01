@@ -1,0 +1,47 @@
+#ian {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../index/img/ai.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 768px) {
+  #ian {
+    background-image: url("../../index/img/ai.jpg");
+  }
+}
+
+#font {
+  font-size: 45px;
+  font-family: serif;
+  color: rgb(5,5,33);
+}
+
+#me {
+  font-size: 25px;
+  font-style: oblique;
+  color: rgb(237,87,22);
+}
+
+#shap {
+  font-size: 25px;
+  font-style: oblique;
+  color: rgb(36,36,239);
+}
+
+#label {
+  font-size: 30px;
+  font-style: normal;
+  color: rgb(5,5,33);
+  font-family: monospace;
+}
+
+#pa {
+  font-size: 30px;
+  font-style: normal;
+  color: rgb(5,5,33);
+  font-family: serif;
+}
+
